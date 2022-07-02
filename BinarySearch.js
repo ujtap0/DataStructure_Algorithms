@@ -26,3 +26,7 @@ function binarySearch(arr, el){
 }
 
 console.log(binarySearch([1,2,3,4,5,6,7,10,29,39,42,73], 73));
+
+//BIG O
+//Best: O(1)
+//Worst and Average: O(log n)
