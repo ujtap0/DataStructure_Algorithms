@@ -1,0 +1,14 @@
+add pointer to the previous node and the next node = each node points in two directions <-node->
+
+singly linked list와 비교
+- more memory === more flexibility
+
+Node
+- val
+- next
+- prev
+
+DoublyLinkedList
+- head
+- tail
+- length
