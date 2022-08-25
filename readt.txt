@@ -1,0 +1,22 @@
+! WHAT IS A STACK?
+  - only rule is it's a collection of data and it need to abide by LIFO principle
+  - LIFO : Last In First Out
+  - so last el added to a stack is going to be the first one to be removed = first thing you added in is the last thing to be removed
+
+! WHERE STACKS ARE USED
+  - managing function invocations => Call Stack
+  - undo/redo 컨트롤 z/ 컨트롤 x
+  - history objects in browser => routing : 뒤로가기
+
+! 구현 방법
+1. array implementation
+
+
+! WHAT IS A QUEUE?
+- order: FIFO(First In First Out)
+
+! WHERE QUEUE ARE USED
+- online game: there's usually some queue structure keeping track of who's been waiting the longest so who is going to get added into the game first
+- background tasks on computers
+- uploading/downloading same size resources
+
